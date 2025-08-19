@@ -81,33 +81,90 @@ print("Lenght of X_test ",len(X_test))
 ## OUTPUT:
 
 DATA SET
+
+
+
 <img width="1590" height="450" alt="image" src="https://github.com/user-attachments/assets/6da17575-1ca1-416d-b7e8-dd4c11ab61d2" />
 
+
+
+
 X VALUES
+
+
+
 <img width="473" height="295" alt="image" src="https://github.com/user-attachments/assets/6f5cd476-6e99-4420-bf55-6dba93b6758f" />
 
+
+
 Y VALUES
+
+
+
 <img width="302" height="141" alt="image" src="https://github.com/user-attachments/assets/847be157-62f5-46f5-a68a-3b78b3126649" />
+
+
 
 NULL VALUES:
 
+
+
 <img width="231" height="382" alt="image" src="https://github.com/user-attachments/assets/ba62047b-cba1-4d47-9f7c-55735c13d3a6" />
 
+
+
+
 DUPLCATED VALUES:
+
+
+
 <img width="267" height="312" alt="image" src="https://github.com/user-attachments/assets/c5843e0a-6138-4685-95e2-07fa5cd8cdeb" />
 
+
+
+
 DESCRIPTON:
+
+
+
 <img width="1557" height="310" alt="image" src="https://github.com/user-attachments/assets/457f6d19-f56a-4a3a-8e09-5ec8317bd6e0" />
+
+
+
 
 NORMALISZED DATASET:
 
+
+
+
+
 <img width="827" height="666" alt="image" src="https://github.com/user-attachments/assets/43ba7508-6448-456e-afe5-9f64019bfead" />
 
+
+
+
+
+
 TRAINING DATA:
+
+
+
 <img width="725" height="213" alt="image" src="https://github.com/user-attachments/assets/0be42455-14d7-4736-8679-6125f97c12a3" />
 
+
+
+
+
 TESTING DATA :
+
+
+
+
 <img width="726" height="202" alt="image" src="https://github.com/user-attachments/assets/ce203f04-737e-4bc1-af12-5be0282db50f" />
+
+
+
+
 
 
 ## RESULT:
