@@ -80,7 +80,7 @@ print("Lenght of X_test ",len(X_test))
 
 ## OUTPUT:
 
-DATA SET
+### DATA SET
 
 
 
@@ -89,7 +89,7 @@ DATA SET
 
 
 
-X VALUES
+### X VALUES
 
 
 
@@ -97,7 +97,7 @@ X VALUES
 
 
 
-Y VALUES
+### Y VALUES
 
 
 
@@ -105,7 +105,7 @@ Y VALUES
 
 
 
-NULL VALUES:
+### NULL VALUES:
 
 
 
@@ -114,7 +114,7 @@ NULL VALUES:
 
 
 
-DUPLCATED VALUES:
+### DUPLCATED VALUES:
 
 
 
@@ -123,7 +123,7 @@ DUPLCATED VALUES:
 
 
 
-DESCRIPTON:
+### DESCRIPTON:
 
 
 
@@ -132,7 +132,7 @@ DESCRIPTON:
 
 
 
-NORMALISZED DATASET:
+### NORMALISZED DATASET:
 
 
 
@@ -145,7 +145,7 @@ NORMALISZED DATASET:
 
 
 
-TRAINING DATA:
+### TRAINING DATA:
 
 
 
@@ -155,7 +155,7 @@ TRAINING DATA:
 
 
 
-TESTING DATA :
+### TESTING DATA :
 
 
 
